@@ -31,9 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Solution URL: [Responsive Grid Testimonials](https://www.frontendmentor.io/solutions/responsive-grid-testimonials-uqu8CgfHDO)
+- Live Site URL: [Frontend Mentor Testimonials](https://beebops.github.io/Frontend-Mentor-Grid-Testimonials) 
 ## My process
 
 ### Built with
@@ -48,7 +47,7 @@ I chose this project to practice my grid skills and to dip my toes into Tailwind
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Beebops](https://www.frontendmentor.io/profile/Beebops)
 - Twitter - [@beebops_beth](https://www.twitter.com/beebops_beth)
 
 
